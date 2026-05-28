@@ -1,0 +1,14 @@
+[
+  {
+    "empresa": "THERMO PRINT",
+    "lojas": ["01","02","03","04"],
+    "telefone": "11995437589",
+    "tipo": "CONTRATO"
+  },
+  {
+    "empresa": "JG SOLUÇÕES",
+    "lojas": ["01","02","03","06"],
+    "telefone": "11959617734",
+    "tipo": "CONTRATO"
+  }
+]
