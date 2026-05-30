@@ -4,258 +4,258 @@
     "lojas": ["Guarulhos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja01.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja01.jpg"
   },
   {
     "empresa": "Loja 02 - Jd. Gracinda - Guarulhos",
     "lojas": ["Guarulhos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja02.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja02.jpg"
   },
   {
     "empresa": "Loja 03 - Jd. São João - Guarulhos",
     "lojas": ["Guarulhos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja03.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja03.jpg"
   },
   {
     "empresa": "Loja 04 - Barueri",
     "lojas": ["Barueri"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja04.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja04.jpg"
   },
   {
     "empresa": "Loja 05 - Osasco - Centro",
     "lojas": ["Osasco"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja05.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja05.jpg"
   },
   {
     "empresa": "Loja 06 - Vila Barros - Guarulhos",
     "lojas": ["Guarulhos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja06.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja06.jpg"
   },
   {
     "empresa": "Loja 08 - Jandira Centro",
     "lojas": ["Jandira"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja08.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja08.jpg"
   },
   {
     "empresa": "Loja 09 - Osasco",
     "lojas": ["Osasco"],
     "telefone": "11999999999",
     "tipo": "07H ÀS 23H",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja09.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja09.jpg"
   },
   {
     "empresa": "Loja 10 - Pirituba - São Paulo",
     "lojas": ["São Paulo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja10.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja10.jpg"
   },
   {
     "empresa": "Loja 11 - Butantã - São Paulo",
     "lojas": ["São Paulo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja11.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja11.jpg"
   },
   {
     "empresa": "Loja 12 - Sales Gomes - Tatuí",
     "lojas": ["Tatuí"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja12.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja12.jpg"
   },
   {
     "empresa": "Loja 14 - Morro Grande - Tatuí",
     "lojas": ["Tatuí"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja14.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja14.jpg"
   },
   {
     "empresa": "Loja 15 - Cruzeiro - Tatuí",
     "lojas": ["Tatuí"],
     "telefone": "11999999999",
     "tipo": "07H ÀS 23H",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja15.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja15.jpg"
   },
   {
     "empresa": "Loja 16 - Atacarejão - Tatuí",
     "lojas": ["Tatuí"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja16.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja16.jpg"
   },
   {
     "empresa": "Loja 18 - Itavuvu - Sorocaba",
     "lojas": ["Sorocaba"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja18.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja18.jpg"
   },
   {
     "empresa": "Loja 19 - Jd. São Judas Tadeu - Capão Redondo",
     "lojas": ["Capão Redondo"],
     "telefone": "11999999999",
     "tipo": "07H ÀS 23H",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja19.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja19.jpg"
   },
   {
     "empresa": "Loja 20 - Itapevi",
     "lojas": ["Itapevi"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja20.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja20.jpg"
   },
   {
     "empresa": "Loja 21 - Jd. Bandeiras - Osasco",
     "lojas": ["Osasco"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja21.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja21.jpg"
   },
   {
     "empresa": "Loja 23 - Cotia - Centro",
     "lojas": ["Cotia"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja23.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja23.jpg"
   },
   {
     "empresa": "Loja 24 - Jd. Boa Vista - Raposo Tavares",
     "lojas": ["São Paulo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja24.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja24.jpg"
   },
   {
     "empresa": "Loja 26 - Jd. Monte Belo - São Paulo",
     "lojas": ["São Paulo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja26.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja26.jpg"
   },
   {
     "empresa": "Loja 28 - Jd. Jacira - Itapecerica da Serra",
     "lojas": ["Itapecerica da Serra"],
     "telefone": "11999999999",
     "tipo": "07H ÀS 23H",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja28.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja28.jpg"
   },
   {
     "empresa": "Loja 29 - Crispim - Itapecerica da Serra",
     "lojas": ["Itapecerica da Serra"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja29.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja29.jpg"
   },
   {
     "empresa": "Loja 31 - Caucaia do Alto - Cotia",
     "lojas": ["Cotia"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja31.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja31.jpg"
   },
   {
     "empresa": "Loja 33 - Jd. Conceição - Osasco",
     "lojas": ["Osasco"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja33.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja33.jpg"
   },
   {
     "empresa": "Loja 35 - Capão Redondo - São Paulo",
     "lojas": ["São Paulo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja35.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja35.jpg"
   },
   {
     "empresa": "Loja 36 - Dom Aguirre - Sorocaba",
     "lojas": ["Sorocaba"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja36.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja36.jpg"
   },
   {
     "empresa": "Loja 37 - Vila Dirce - Carapicuíba",
     "lojas": ["Carapicuíba"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja37.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja37.jpg"
   },
   {
     "empresa": "Loja 38 - Jd. Pedreira - São Paulo",
     "lojas": ["São Paulo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja38.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja38.jpg"
   },
   {
     "empresa": "Loja 39 - Ermelino Matarazzo - São Paulo",
     "lojas": ["São Paulo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja39.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja39.jpg"
   },
   {
     "empresa": "Loja 40 - Embu das Artes",
     "lojas": ["Embu das Artes"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja40.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja40.jpg"
   },
   {
     "empresa": "Loja 41 - São José dos Campos",
     "lojas": ["São José dos Campos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja41.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja41.jpg"
   },
   {
     "empresa": "Loja 42 - São Bernardo do Campo",
     "lojas": ["São Bernardo do Campo"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja42.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja42.jpg"
   },
   {
     "empresa": "Loja 43 - Bosque Maia - Guarulhos",
     "lojas": ["Guarulhos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja43.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja43.jpg"
   },
   {
     "empresa": "Loja 44 - Jandira",
     "lojas": ["Jandira"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja44.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja44.jpg"
   },
   {
     "empresa": "Loja 45 - São José dos Campos",
     "lojas": ["São José dos Campos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja45.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/loja45.jpg"
   },
   {
     "empresa": "Sede - Guarulhos",
     "lojas": ["Guarulhos"],
     "telefone": "11999999999",
     "tipo": "24 HORAS",
-    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/lojasede.png"
+    "foto": "https://raw.githubusercontent.com/willians-hash/prestadores-app/main/lojasede.jpg"
   }
 ]
