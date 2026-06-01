@@ -2,15 +2,36 @@
   {
     "nome": "José Maciel",
     "cargo": "Gerente de Manutenção",
-    "telefone": "11930558500",
+    "telefone": "11 93055-8500",
     "regiao": "Superintendente",
     "foto": "https://flaticon.com"
   },
   {
-    "nome": "Willian Saturnino Marques",
-    "cargo": "Analista (SyOS) / Coordenador de Operações",
-    "telefone": "11959596401",
+    "nome": "Leandro Gonzaga",
+    "cargo": "Sublíder de Manutenção",
+    "telefone": "11 94315-4783",
+    "regiao": "Regional III",
+    "foto": "https://flaticon.com"
+  },
+  {
+    "nome": "Willian Saturnino",
+    "cargo": "Analista (SyOS)  Coordenador de Manutenção",
+    "telefone": "11 97291-3006",
     "regiao": "Loja 28 & 29",
+    "foto": "https://flaticon.com"
+  },
+  {
+    "nome": "Domingues Sávio",
+    "cargo": "Coordenador de Manutenção",
+    "telefone": "11 96387-5688",
+    "regiao": "Regional I",
+    "foto": "https://flaticon.com"
+  },
+  {
+    "nome": "Izaias Barbalho",
+    "cargo": "Coordenador de Manutenção",
+    "telefone": "11 94384-1530",
+    "regiao": "Regional II",
     "foto": "https://flaticon.com"
   }
 ]
