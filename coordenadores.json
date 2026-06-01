@@ -5,6 +5,7 @@
     "telefone": "11 93055-8500",
     "regiao": "Superintendente",
     "foto": "https://flaticon.com"
+    "email": "Josemaciel@barbosasm.com.br"
   },
   {
     "nome": "Leandro Gonzaga",
@@ -12,6 +13,7 @@
     "telefone": "11 94315-4783",
     "regiao": "Regional III",
     "foto": "https://flaticon.com"
+    "email": "Leandro.gonzaga@barbosasm.com.br"
   },
   {
     "nome": "Willian Saturnino",
@@ -19,6 +21,7 @@
     "telefone": "11 97291-3006",
     "regiao": "Loja 28 & 29",
     "foto": "https://flaticon.com"
+    "email": "Willians@barbosasm.com.br"
   },
   {
     "nome": "Domingues Sávio",
@@ -26,6 +29,7 @@
     "telefone": "11 96387-5688",
     "regiao": "Regional I",
     "foto": "https://flaticon.com"
+    "email": "Domingues@barbosasm.com.br"
   },
   {
     "nome": "Izaias Barbalho",
@@ -33,5 +37,6 @@
     "telefone": "11 94384-1530",
     "regiao": "Regional II",
     "foto": "https://flaticon.com"
+    "email": "Izaias@barbosasm.com.br"
   }
 ]
