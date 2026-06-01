@@ -1,16 +1,16 @@
 [
   {
-    "nome": "Willian S. Marques",
-    "cargo": "Coordenador de Operações",
-    "telefone": "11999999999",
-    "regiao": "Região Guarulhos",
-    "foto": "https://flaticon.com"
-  },
-  {
     "nome": "José Maciel",
     "cargo": "Gerente de Manutenção",
     "telefone": "11988888888",
     "regiao": "Superintendente",
+    "foto": "https://flaticon.com"
+  },
+  {
+    "nome": "Willian Saturnino Marques",
+    "cargo": "Analista (SyOS) / Coordenador de Operações",
+    "telefone": "11999999999",
+    "regiao": "Loja 28 & 29",
     "foto": "https://flaticon.com"
   }
 ]
